@@ -1,4 +1,4 @@
-# fourth_proj
+# Movies App
 
 A new Flutter application.
 
